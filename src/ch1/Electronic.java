@@ -18,6 +18,9 @@ package ch1;
 	  	- yes. Abstract classes can have concrete methods.  
 	Can you instantiate Phone2()?
 		- no.  Phone2 is abstract
+* @author  D.J. Fabozzi
+* @version 1.0
+* @since   2016-10-05
 */
 
 public class Electronic implements Device
