@@ -5,7 +5,7 @@ package ch1;
  * 
  * Questions: 
  *  - can the static method hide an instance method?
- *  - can a static method override a parent method?
+ *  - do static methods override?
  * 
  * @author  D.J. Fabozzi
  * @version 1.0
@@ -18,9 +18,7 @@ class Hobbit
 }
 public class Frodo extends Hobbit
 {
-  public static int countSilver(int x, int y) {
-    return y + y; 
-  }
+   public static int countSilver(int x, int y) { return y + y; }
   
 // will this compile?
 //  public static int countGold(int x , int y) { return x + x; }
