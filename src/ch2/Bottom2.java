@@ -4,8 +4,7 @@ package ch2;
  * Class: Bottom2
 *
 * Summary: 
-* - we're looking at inheritance and the use of the static block.  
-* - remember that the order of events is
+* - inheritance and static/instance/constructor invocation order
 * 1. super static block
 * 2. sub static block
 * 3. super instance block
@@ -15,6 +14,8 @@ package ch2;
 * 7. sub action 
 *
 * Questions: 
+*  - determine what order things happen based on the static blocks, instance blocks, inheritance, 
+*  and arg/no arg constructors
 *
 * @author  	D.J. Fabozzi II
 * @version 	1.0
