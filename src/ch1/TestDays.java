@@ -1,9 +1,9 @@
 package ch1;
 /*
+ * Class: TestDays 
+ * 
+ * Summary: prints the contents of an enum and copies the contents to an array.
  *
- * TestDays prints the contents of an enum and copies the contents to an array.
- *
- * @author  D.J. Fabozzi
  * @version 1.0
  * @since   2016-10-05
 */ 

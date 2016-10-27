@@ -7,7 +7,6 @@ package ch1;
  *  - can the static method hide an instance method?
  *  - do static methods override?
  * 
- * @author  D.J. Fabozzi
  * @version 1.0
  * @since   2016-10-05
  */

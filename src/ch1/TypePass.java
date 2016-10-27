@@ -12,9 +12,8 @@ package ch1;
  * - Byte->Number
  * - short->int
  * 
- * @author  D.J. Fabozzi
  * @version 1.0
- * @since   2016-10-07
+ * @since 2016-10-07
  */
 public class TypePass {
 
